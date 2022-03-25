@@ -22,4 +22,4 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-+<img src="/Instagram-Remake/blob/main/instagramre.gif?raw=true" width="500px">
++<img src="https://github.com/Matt-8A/Instagram-Remake/blob/main/instagramre.gif?raw=true" width="500px">
