@@ -22,4 +22,4 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://g.recordit.co/bmwpXt20C3.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
++<img src="/Instagram-Remake/blob/main/instagramre.gif?raw=true" width="500px">
