@@ -1,5 +1,5 @@
 # Instagram Remake
-This is an Instagram clone with a custom Parse backend that allows a user to post photos and view a global photos feed.
+This is an Instagram clone with a custom Parse backend database that allows a user to post photos and view a global photos feed.
 
 Time spent: **4** hours spent in total
 
